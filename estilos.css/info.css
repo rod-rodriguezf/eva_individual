@@ -1,0 +1,22 @@
+#info {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: cursive;
+}
+#info .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.info-libros img{
+    width: 180px;
+    height: 180px;
+    border: solid 5px rgb(13, 128, 32);
+    border-radius: 50%;
+    
+}
+.info-libros {
+    margin: 20px;
+}
