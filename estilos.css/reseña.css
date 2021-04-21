@@ -1,0 +1,24 @@
+#reseñas {
+    background-color: rgb(177, 106, 40);
+}
+.resena1 {
+    display: flex;
+    justify-content: left;
+    margin-top: 20px;
+}
+.resena1 img {
+    width: 600px;
+    height: 630px;
+    padding: 30px;
+    
+}
+.contenedor1  {
+    display: flex;
+    justify-content: right;
+  
+}
+.contenedor1 p {
+    margin-top: 20px;
+    padding: 30px;
+    font-family: cursive;
+}

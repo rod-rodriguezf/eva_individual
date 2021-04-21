@@ -1,5 +1,5 @@
 #info {
-    background: #4e94ab;
+    background: rgb(167, 87, 40);
     color: white;
     text-align: center;
     padding: 20px;
@@ -13,10 +13,21 @@
 .info-libros img{
     width: 180px;
     height: 180px;
-    border: solid 5px rgb(13, 128, 32);
+    border: solid 5px rgb(13, 25, 128);
+    margin: 20px;
     
     
 }
-.info-libros {
+.info-libros a {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
     margin: 20px;
+    border: solid 1px rgb(13, 105, 128);
+    color: #fff;
+    border-radius: 20px;
+    
+}
+.info-libros a:hover {
+    background: rgb(6, 107, 36);
 }
