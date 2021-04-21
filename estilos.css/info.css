@@ -1,5 +1,5 @@
 #info {
-    background: #333;
+    background: #4e94ab;
     color: white;
     text-align: center;
     padding: 20px;
@@ -14,7 +14,7 @@
     width: 180px;
     height: 180px;
     border: solid 5px rgb(13, 128, 32);
-    border-radius: 50%;
+    
     
 }
 .info-libros {
