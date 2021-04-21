@@ -43,7 +43,7 @@ header label:hover {
     .menu {
         left: 0;
         position: absolute;
-        background: rgb(167, 87, 40);
+        background: rebeccapurple;
         width: 70%;
         margin-left: -70%;
         transition: all 0.5s;
